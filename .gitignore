@@ -1,4 +1,8 @@
+# file types
 .ipynb_checkpoints
 .tar.gz
 .tar
 .gz
+
+# specific folders
+convolutional-neural-networks/cifar-cnn/data/
